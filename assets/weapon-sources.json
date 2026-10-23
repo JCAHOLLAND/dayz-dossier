@@ -1,0 +1,302 @@
+{
+  "DMR": {
+    "src": "/assets/weapons/dmr-user.webp",
+    "page": "https://dayz.fandom.com/wiki/DMR",
+    "filePage": "https://dayz.fandom.com/wiki/File:M14.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/b/b4/M14.png/revision/latest?cb=20231005142636",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "== Summary ==\n1.23 Exp 4k cutout\n== Licensing ==\n{{Copyright game}}",
+    "suppliedByUser": "User supplied M14.webp and https://dayz.fandom.com/wiki/DMR; matched against the M14.png image linked from that exact Standalone DMR page."
+  },
+  "VSD": {
+    "src": "/assets/weapons/svd.webp",
+    "page": "https://dayz.fandom.com/wiki/VSD",
+    "filePage": "https://dayz.fandom.com/wiki/File:SVD.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/3/33/SVD.png/revision/latest?cb=20220220234722",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "clear PNG image [0.62, WQHD]\n[[Category:Weapon images]]"
+  },
+  "M4-A1": {
+    "src": "/assets/weapons/m4a1.webp",
+    "page": "https://dayz.fandom.com/wiki/M4-A1",
+    "filePage": "https://dayz.fandom.com/wiki/File:M4A1.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/a/a1/M4A1.png/revision/latest?cb=20220330014851",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "Stock [[M4-A1]] All Pristine\n[[category:Weapon images]]"
+  },
+  "M70 Tundra": {
+    "src": "/assets/weapons/winchester70.webp",
+    "page": "https://dayz.fandom.com/wiki/M70%20Tundra",
+    "filePage": "https://dayz.fandom.com/wiki/File:Winchester70.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/6/62/Winchester70.png/revision/latest?cb=20220517152918",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "[[Category:Weapon images]]"
+  },
+  "CR-550 Savanna": {
+    "src": "/assets/weapons/cz550.webp",
+    "page": "https://dayz.fandom.com/wiki/CR-550%20Savanna",
+    "filePage": "https://dayz.fandom.com/wiki/File:CZ550.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/3/3d/CZ550.png/revision/latest?cb=20240809234950",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "\n== Licensing ==\n{{Copyright game}}"
+  },
+  "VS-89": {
+    "src": "/assets/weapons/sv98.webp",
+    "page": "https://dayz.fandom.com/wiki/VS-89",
+    "filePage": "https://dayz.fandom.com/wiki/File:SV98.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/e/ea/SV98.png/revision/latest?cb=20240424164607",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "== Summary ==\n1.25 EXP"
+  },
+  "Blaze": {
+    "src": "/assets/weapons/b95.webp",
+    "page": "https://dayz.fandom.com/wiki/Blaze",
+    "filePage": "https://dayz.fandom.com/wiki/File:B95.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/5/56/B95.png/revision/latest?cb=20220517154129",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "MsUpload\n[[category:Weapon images]]"
+  },
+  "AUR AX": {
+    "src": "/assets/weapons/aug.webp",
+    "page": "https://dayz.fandom.com/wiki/AUR%20AX",
+    "filePage": "https://dayz.fandom.com/wiki/File:Aug.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/b/be/Aug.png/revision/latest?cb=20211104182427",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "== Summary ==\nAUR AX, 1.15.154306 Experimental, 4K resolution.\n== Licensing ==\n{{Copyright game}}"
+  },
+  "BK-133": {
+    "src": "/assets/weapons/mp133shotgun.webp",
+    "page": "https://dayz.fandom.com/wiki/BK-133",
+    "filePage": "https://dayz.fandom.com/wiki/File:Mp133Shotgun.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/a/a5/Mp133Shotgun.png/revision/latest?cb=20210210190104",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "[[Category:Weapon images]]"
+  },
+  "BK-43": {
+    "src": "/assets/weapons/izh43shotgun.webp",
+    "page": "https://dayz.fandom.com/wiki/BK-43",
+    "filePage": "https://dayz.fandom.com/wiki/File:Izh43Shotgun.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/c/c7/Izh43Shotgun.png/revision/latest?cb=20210210185835",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "[[category:Weapon images]]"
+  },
+  "Bizon": {
+    "src": "/assets/weapons/pp19.webp",
+    "page": "https://dayz.fandom.com/wiki/Bizon",
+    "filePage": "https://dayz.fandom.com/wiki/File:PP19.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/a/af/PP19.png/revision/latest?cb=20220127132305",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "== Summary ==\nBizon with Bizon Lightweight Buttstock and 64rd Bizon Mag. 4K cutout, 1.16 Experimental\n== Licensing ==\n{{Copyright self}}"
+  },
+  "CR-527": {
+    "src": "/assets/weapons/cz527.webp",
+    "page": "https://dayz.fandom.com/wiki/CR-527",
+    "filePage": "https://dayz.fandom.com/wiki/File:CZ527.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/4/43/CZ527.png/revision/latest?cb=20220518204503",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "A Pristine Wooden CR527 Carbine; Cropped, .PNG and much higher resolution then previous images.\n[[category:Weapon images]]"
+  },
+  "CR-61 Skorpion": {
+    "src": "/assets/weapons/cz61.webp",
+    "page": "https://dayz.fandom.com/wiki/CR-61%20Skorpion",
+    "filePage": "https://dayz.fandom.com/wiki/File:CZ61.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/d/d6/CZ61.png/revision/latest?cb=20220518204508",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "[[Category:Weapon images]]"
+  },
+  "Deagle": {
+    "src": "/assets/weapons/deagle.webp",
+    "page": "https://dayz.fandom.com/wiki/Deagle",
+    "filePage": "https://dayz.fandom.com/wiki/File:Deagle.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/6/62/Deagle.png/revision/latest?cb=20210512003023",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "{{Citation needed}}\n[[Category:Weapon images]]"
+  },
+  "IJ-70": {
+    "src": "/assets/weapons/makarovij70.webp",
+    "page": "https://dayz.fandom.com/wiki/IJ-70",
+    "filePage": "https://dayz.fandom.com/wiki/File:MakarovIJ70.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/2/26/MakarovIJ70.png/revision/latest?cb=20210209000551",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "A Pristine Makarov IJ70, Cropped/Higher resolution then Previous Image.\n[[category:Weapon images]]"
+  },
+  "KA-101": {
+    "src": "/assets/weapons/ak101.webp",
+    "page": "https://dayz.fandom.com/wiki/KA-101",
+    "filePage": "https://dayz.fandom.com/wiki/File:AK101.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/f/f2/AK101.png/revision/latest?cb=20210207040122",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "[[Category:Weapon images]]"
+  },
+  "KA-74": {
+    "src": "/assets/weapons/ak74.webp",
+    "page": "https://dayz.fandom.com/wiki/KA-74",
+    "filePage": "https://dayz.fandom.com/wiki/File:AK74.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/8/8b/AK74.png/revision/latest?cb=20210505013141",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "MsUpload\n[[category:Weapon images]]"
+  },
+  "KA-M": {
+    "src": "/assets/weapons/akm.webp",
+    "page": "https://dayz.fandom.com/wiki/KA-M",
+    "filePage": "https://dayz.fandom.com/wiki/File:AKM.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/6/6c/AKM.png/revision/latest?cb=20210505011614",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "MsUpload\n[[category:Weapon images]]"
+  },
+  "KAS-74U": {
+    "src": "/assets/weapons/aks74u.webp",
+    "page": "https://dayz.fandom.com/wiki/KAS-74U",
+    "filePage": "https://dayz.fandom.com/wiki/File:AKS74U.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/0/0b/AKS74U.png/revision/latest?cb=20210505014222",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "[[category:Weapon images]]"
+  },
+  "LAR": {
+    "src": "/assets/weapons/fal.webp",
+    "page": "https://dayz.fandom.com/wiki/LAR",
+    "filePage": "https://dayz.fandom.com/wiki/File:FAL.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/e/e9/FAL.png/revision/latest?cb=20220221001123",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "[[Category:Weapon images]]"
+  },
+  "LE-MAS": {
+    "src": "/assets/weapons/famas.webp",
+    "page": "https://dayz.fandom.com/wiki/LE-MAS",
+    "filePage": "https://dayz.fandom.com/wiki/File:FAMAS.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/2/21/FAMAS.png/revision/latest?cb=20210902183114",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "== Summary ==\nLE-MAS rifle from Experimental 1.14. 4K resolution.\n== Licensing ==\n{{Copyright game}}"
+  },
+  "M16-A2": {
+    "src": "/assets/weapons/m16a2.webp",
+    "page": "https://dayz.fandom.com/wiki/M16-A2",
+    "filePage": "https://dayz.fandom.com/wiki/File:M16A2.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/e/ee/M16A2.png/revision/latest?cb=20220221002601",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": ""
+  },
+  "Mlock-91": {
+    "src": "/assets/weapons/glock19.webp",
+    "page": "https://dayz.fandom.com/wiki/Mlock-91",
+    "filePage": "https://dayz.fandom.com/wiki/File:Glock19.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/9/9b/Glock19.png/revision/latest?cb=20210505024259",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "[[Category:Weapon images]]"
+  },
+  "Mosin 91/30": {
+    "src": "/assets/weapons/mosin9130.webp",
+    "page": "https://dayz.fandom.com/wiki/Mosin%2091/30",
+    "filePage": "https://dayz.fandom.com/wiki/File:Mosin9130.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/a/a8/Mosin9130.png/revision/latest?cb=20230126021955",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "MsUpload\n[[category:Weapon images]]"
+  },
+  "Pioneer": {
+    "src": "/assets/weapons/scout.webp",
+    "page": "https://dayz.fandom.com/wiki/Pioneer",
+    "filePage": "https://dayz.fandom.com/wiki/File:Scout.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/6/69/Scout.png/revision/latest?cb=20220518204357",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "== Summary ==\nPioneer rifle\n\n4K resolution cutout, 1.12 Experimental"
+  },
+  "SG5-K": {
+    "src": "/assets/weapons/mp5k.webp",
+    "page": "https://dayz.fandom.com/wiki/SG5-K",
+    "filePage": "https://dayz.fandom.com/wiki/File:MP5K.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/8/87/MP5K.png/revision/latest?cb=20220221011343",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "[[category:Weapon images]]"
+  },
+  "SK 59/66": {
+    "src": "/assets/weapons/sks.webp",
+    "page": "https://dayz.fandom.com/wiki/SK%2059/66",
+    "filePage": "https://dayz.fandom.com/wiki/File:SKS.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/f/fe/SKS.png/revision/latest?cb=20220517154633",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "MsUpload\n[[category:Weapon images]]"
+  },
+  "SSG 82": {
+    "src": "/assets/weapons/ssg82.webp",
+    "page": "https://dayz.fandom.com/wiki/SSG%2082",
+    "filePage": "https://dayz.fandom.com/wiki/File:SSG82.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/1/10/SSG82.png/revision/latest?cb=20220922192455",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "== Summary ==\nSSG 82, 1.19 EXP"
+  },
+  "SVAL": {
+    "src": "/assets/weapons/asval.webp",
+    "page": "https://dayz.fandom.com/wiki/SVAL",
+    "filePage": "https://dayz.fandom.com/wiki/File:ASVAL.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/3/39/ASVAL.png/revision/latest?cb=20210208015731",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "== Summary ==\ncutout of SVAL rifle\n== Licensing ==\n{{Copyright game}}"
+  },
+  "USG-45": {
+    "src": "/assets/weapons/ump45.webp",
+    "page": "https://dayz.fandom.com/wiki/USG-45",
+    "filePage": "https://dayz.fandom.com/wiki/File:UMP45.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/d/d7/UMP45.png/revision/latest?cb=20220221002354",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "[[Category:Weapon images]]"
+  },
+  "VSS": {
+    "src": "/assets/weapons/vss.webp",
+    "page": "https://dayz.fandom.com/wiki/VSS",
+    "filePage": "https://dayz.fandom.com/wiki/File:VSS.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/f/fc/VSS.png/revision/latest?cb=20210208202042",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": "[[Category:Weapon images]]"
+  },
+  "Vikhr": {
+    "src": "/assets/weapons/vikhr.webp",
+    "page": "https://dayz.fandom.com/wiki/Vikhr",
+    "filePage": "https://dayz.fandom.com/wiki/File:Vikhr.png",
+    "original": "https://static.wikia.nocookie.net/dayz_gamepedia/images/0/0d/Vikhr.png/revision/latest?cb=20240116163108",
+    "copyright": "Bohemia Interactive; game screenshot/cutout via DayZ Wiki",
+    "reuse": "Game screenshot use under Bohemia Game Content Usage Rules. Wiki file descriptions preserved below; not claimed to be freely licensed game assets.",
+    "fileDescription": ""
+  },
+  "RPK-16": {
+    "src": "/assets/weapons/rpk16.webp",
+    "page": "https://db.mydayz.eu/database/weapons/firearms/machine-gun/rpk16/",
+    "filePage": "https://db.mydayz.eu/database/weapons/firearms/machine-gun/rpk16/",
+    "original": "https://db.mydayz.eu/wp-content/uploads/2025/08/RPK16.png.webp",
+    "credit": "MyDayZ",
+    "copyright": "Source footer: all rights reserved; respective game/mod rights holders retain ownership.",
+    "reuse": "User-provided source explicitly requested for this local private dashboard. No broad redistribution license found; no publication authorized.",
+    "match": "RPK16 product title and image alt, description explicitly identifies RPK-16. Exact historical server mod version not known.",
+    "note": "RPK-16 reference; mod version may vary."
+  }
+}

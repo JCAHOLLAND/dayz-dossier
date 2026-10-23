@@ -1,0 +1,7 @@
+__pycache__/
+data.js
+killfeedpart*.txt
+portrait-assignments.json
+association-validation.json
+assets/weapons/rpk16.webp
+audit_weapon_fix.py

@@ -1,0 +1,109 @@
+{
+  "tool": "Built-in imagegen",
+  "count": 21,
+  "basePrompt": "Realistic game-render full-body survivor, backpack, muted olive/slate/brown practical clothing, cool misty woodland, three-quarter standing pose, no text or weapons in hands; decorative fictional character.",
+  "variants": [
+    "woman, auburn braid, weathered charcoal raincoat, olive backpack, knitted grey cap, facing left",
+    "man, dark skin, shaved head, tan field jacket, small olive daypack, facing right",
+    "woman, East Asian appearance, short black hair, sage green parka, grey hiking pack, facing right",
+    "older man, grey beard, faded navy work jacket, brown canvas rucksack, dark wool cap, facing left",
+    "woman, dark skin, ochre outdoor jacket, dark green backpack, hood down, facing right",
+    "man, pale skin, dark stubble, maroon flannel shirt over grey hoodie, hiking pack, facing left",
+    "woman, light skin, brown ponytail, faded blue rain jacket, olive rucksack, facing right",
+    "man, South Asian appearance, short beard, dark olive anorak, beige hiking pack, facing left",
+    "woman, older grey hair, brown waxed field coat, dark green pack, facing right",
+    "man, red beard, grey beanie, brown leather jacket, battered hiking rucksack, facing left",
+    "woman, olive skin, dark curly hair, charcoal utility jacket, rust colored backpack, facing right",
+    "man, dark skin, dark bucket hat, faded khaki overshirt, forest green pack, facing left",
+    "woman, pale skin, blonde braid, muted burgundy parka, grey canvas rucksack, facing right",
+    "man, East Asian appearance, navy knit cap, sand colored windbreaker, dark hiking pack, facing left",
+    "woman, South Asian appearance, scarf on neck, moss green jacket, tan backpack, facing right",
+    "man, older olive skin, grey short hair, worn brown field jacket, navy rucksack, facing left",
+    "woman, dark skin, short natural hair, faded army green raincoat, grey backpack, facing right",
+    "man, pale skin, long dark hair tied back, weathered slate jacket, brown canvas pack, facing left",
+    "woman, light skin, short red hair, muted teal windbreaker, charcoal hiking pack, facing right",
+    "man, olive skin, grey beanie, faded dark burgundy jacket, olive hiking rucksack, facing left"
+  ],
+  "assets": [
+    {
+      "file": "survivor-01.png",
+      "variant": 1
+    },
+    {
+      "file": "survivor-02.png",
+      "variant": 2
+    },
+    {
+      "file": "survivor-04.png",
+      "variant": 4
+    },
+    {
+      "file": "survivor-03.png",
+      "variant": 3
+    },
+    {
+      "file": "survivor-05.png",
+      "variant": 5
+    },
+    {
+      "file": "survivor-07.png",
+      "variant": 7
+    },
+    {
+      "file": "survivor-09.png",
+      "variant": 9
+    },
+    {
+      "file": "survivor-06.png",
+      "variant": 6
+    },
+    {
+      "file": "survivor-08.png",
+      "variant": 8
+    },
+    {
+      "file": "survivor-10.png",
+      "variant": 10
+    },
+    {
+      "file": "survivor-11.png",
+      "variant": 11
+    },
+    {
+      "file": "survivor-13.png",
+      "variant": 13
+    },
+    {
+      "file": "survivor-14.png",
+      "variant": 14
+    },
+    {
+      "file": "survivor-15.png",
+      "variant": 15
+    },
+    {
+      "file": "survivor-12.png",
+      "variant": 12
+    },
+    {
+      "file": "survivor-16.png",
+      "variant": 16
+    },
+    {
+      "file": "survivor-18.png",
+      "variant": 18
+    },
+    {
+      "file": "survivor-17.png",
+      "variant": 17
+    },
+    {
+      "file": "survivor-19.png",
+      "variant": 19
+    },
+    {
+      "file": "survivor-20.png",
+      "variant": 20
+    }
+  ]
+}
